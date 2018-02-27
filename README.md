@@ -3,7 +3,7 @@ Simple code to show the creation and 'Proof-of-work' of a blockchain.
 
 This is a very simple implementation of a BlockChain.
 
-** This is not a secure BlockChain and has many limitations. **
+**This is not a secure BlockChain and has many limitations.**
 
 Run the below command when inside the BlockChain directory to initalize your code with necessary modules.
 > npm install --save crypto-js
